@@ -1,0 +1,25 @@
+
+Burnex	4	33
+Marino_Tablet	1	23
+Azithromycin_Tablet	45	22
+Amoxicillin_Capsule	35	99
+Nexium_Tablet	20	12
+Nexium_Tablet	20	22
+Marino_Tablet	1	100
+Omeprazole_Capsule	25	4
+Acsol_Gel_Tube	110	12
+Panadol_Tablet	15	2
+Azithromycin_Tablet	45	99
+Zovirax_Cream	18	22
+Zovirax_Cream	18	1
+Panadol_Tablet	15	1
+Zovirax_Cream	18	2
+Nexium_Tablet	20	34
+Zovirax_Cream	18	12
+Amoxicillin_Capsule	35	32
+Acsol_Gel_Tube	110	12
+Burnex	4	45
+Zovirax_Cream	18	22
+Omeprazole_Capsule	25	45
+Zovirax_Cream	18	12
+Nexium_Tablet	20	111
