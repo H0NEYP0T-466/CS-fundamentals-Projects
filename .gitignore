@@ -1,0 +1,71 @@
+# Compiled Object files
+*.o
+*.obj
+
+# Executables
+*.exe
+*.out
+*.app
+drugstore
+shopping
+virtualpet
+supermarket
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+
+# Static and dynamic libraries
+*.so
+*.dylib
+*.dll
+*.a
+*.lib
+
+# Build directories
+build/
+debug/
+release/
+
+# IDE files
+.vscode/
+.vs/
+*.cbp
+*.layout
+*.depend
+*.workspace
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.temp
+*~
+*.swp
+*.swo
+
+# Log files
+*.log
+gmon.out
+
+# OneNote files
+*.onetoc2
+
+# Archives
+*.rar
+*.zip
+*.tar.gz
+*.7z
+
+# Backup files
+*.bak
+*.backup
